@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zwy-678
 - 👀 I’m interested in coumputer  programing.
 - 🌱 I’m currently learning new things.
-- 💞️ I’m looking to collaborate on study together.
+- 💞️ I’m looking to collaborate on some projects.
 - 📫 How to reach me wx ZWY13469755806
 
 <!---
