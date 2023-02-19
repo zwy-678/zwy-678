@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Wen Yao.
-- 👀 Interested in coumputer  programing.
+- 👋 Hi, I’m Yao.
+- 👀 quant
